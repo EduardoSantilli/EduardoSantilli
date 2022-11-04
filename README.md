@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EduardoSantilli
 - 👀 I’m interested in Physics, Astronomy, Philosophy, Literature, Math, Music... etc, etc, etc.
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on what ever I can be useful
+- 💞️ I’m looking to collaborate on whatever I can be useful
 - 📫 How to reach me: arielelias8@hotmail.com
 
 <!---
